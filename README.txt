@@ -1,4 +1,3 @@
-Salam , Lotfan Read Me ro motale dashte bashid , mamnun
 
 Spotify Clone Guide : 
 
